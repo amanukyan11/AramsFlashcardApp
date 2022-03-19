@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, AddCardActivity.class);
                 MainActivity.this.startActivityForResult(intent, 100);
-                //mStartForResult.launch(new Intent(this, MainActivity.class));
             }
         });
 
