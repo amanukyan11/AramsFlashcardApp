@@ -1,4 +1,4 @@
-package com.yourpackage.packagenamehere;
+package com.example.aramsflashcardapp;
 
 import androidx.room.Database;
 import androidx.room.RoomDatabase;

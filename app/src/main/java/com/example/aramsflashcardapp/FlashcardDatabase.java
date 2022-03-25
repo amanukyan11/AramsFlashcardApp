@@ -1,4 +1,4 @@
-package com.yourpackage.packagenamehere;
+package com.example.aramsflashcardapp;
 
 import android.content.Context;
 
