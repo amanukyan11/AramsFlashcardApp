@@ -7,7 +7,7 @@
 Create multiple flashcards and browse through your collection.
 ### App Walk-though
 
-<img src="http://g.recordit.co/Sc8G70Kyal.gif" width=200><br>
+<img src="http://g.recordit.co/2xsc6GrP8P.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
